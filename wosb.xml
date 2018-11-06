@@ -1,0 +1,1662 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvmundomaior.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redetv-es.gif|http://www.lineup.tv.br/canais/redetv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvasabranca.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere6.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Full-HD">
+    <display-name lang="pt">Band Full-HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamaraosasco.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <icon src="http://www.lineup.tv.br/canais/paramount.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CANAL SONY [Alter]">
+    <display-name lang="pt">CANAL SONY [Alter]</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sic.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sictv.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Combate Full-HD">
+    <display-name lang="pt">Combate Full-HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <icon src="http://www.lineup.tv.br/canais/nationalgeographicwild.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvativapiracicaba.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telesur.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <icon src="http://www.lineup.tv.br/canais/shoptime.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DISCOVERY THEATER">
+    <display-name lang="pt">DISCOVERY THEATER</display-name>
+    <icon src="http://www.lineup.tv.br/canais/sbn.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20181106004000 -0400" stop="20181106011000 -0400" channel="Band HD">
+    <title lang="pt">Band Eleições</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106011000 -0400" stop="20181106020000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106020000 -0400" stop="20181106020500 -0400" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106020500 -0400" stop="20181106023000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106023000 -0400" stop="20181106030000 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106030000 -0400" stop="20181106040000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106040000 -0400" stop="20181106044500 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106044500 -0400" stop="20181106050000 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106050000 -0400" stop="20181106060000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106060000 -0400" stop="20181106070000 -0400" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106070000 -0400" stop="20181106073000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106073000 -0400" stop="20181106080000 -0400" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106080000 -0400" stop="20181106083000 -0400" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106083000 -0400" stop="20181106085000 -0400" channel="Band HD">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106085000 -0400" stop="20181106095000 -0400" channel="Band HD">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106095000 -0400" stop="20181106110000 -0400" channel="Band HD">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106110000 -0400" stop="20181106123000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106123000 -0400" stop="20181106130000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106130000 -0400" stop="20181106131000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106131000 -0400" stop="20181106132000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106132000 -0400" stop="20181106135000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106135000 -0400" stop="20181106142000 -0400" channel="Band HD">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106142000 -0400" stop="20181106151500 -0400" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106151500 -0400" stop="20181106161500 -0400" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106161500 -0400" stop="20181106185000 -0400" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106185000 -0400" stop="20181106192000 -0400" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106192000 -0400" stop="20181106203000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106203000 -0400" stop="20181106204000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106204000 -0400" stop="20181106205000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106205000 -0400" stop="20181106213500 -0400" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106213500 -0400" stop="20181106222700 -0400" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106222700 -0400" stop="20181106223500 -0400" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106223500 -0400" stop="20181106224500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106224500 -0400" stop="20181107004500 -0400" channel="Band HD">
+    <title lang="pt">Masterchef Profissionais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107004500 -0400" stop="20181107013000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107013000 -0400" stop="20181107013500 -0400" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107013500 -0400" stop="20181107020500 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107020500 -0400" stop="20181107030000 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107030000 -0400" stop="20181107043000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107043000 -0400" stop="20181107052000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107052000 -0400" stop="20181107053500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107053500 -0400" stop="20181107060000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107060000 -0400" stop="20181107070000 -0400" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107070000 -0400" stop="20181107073000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107073000 -0400" stop="20181107080000 -0400" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107080000 -0400" stop="20181107083000 -0400" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107083000 -0400" stop="20181107085000 -0400" channel="Band HD">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107085000 -0400" stop="20181107095000 -0400" channel="Band HD">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107095000 -0400" stop="20181107110000 -0400" channel="Band HD">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107110000 -0400" stop="20181107123000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107123000 -0400" stop="20181107130000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107130000 -0400" stop="20181107131000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107131000 -0400" stop="20181107132000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107132000 -0400" stop="20181107135000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107135000 -0400" stop="20181107142000 -0400" channel="Band HD">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107142000 -0400" stop="20181107151500 -0400" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107151500 -0400" stop="20181107161500 -0400" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107161500 -0400" stop="20181107185000 -0400" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107185000 -0400" stop="20181107192000 -0400" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107192000 -0400" stop="20181107203000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107203000 -0400" stop="20181107204000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107204000 -0400" stop="20181107205000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107205000 -0400" stop="20181107213500 -0400" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107213500 -0400" stop="20181107222700 -0400" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107222700 -0400" stop="20181107223500 -0400" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107223500 -0400" stop="20181107224500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107224500 -0400" stop="20181108010500 -0400" channel="Band HD">
+    <title lang="pt">Quarta No Cinema: Gênio Indomável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108010500 -0400" stop="20181108015500 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108015500 -0400" stop="20181108020000 -0400" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108020000 -0400" stop="20181108022500 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108022500 -0400" stop="20181108030000 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108030000 -0400" stop="20181108043000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108043000 -0400" stop="20181108052000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108052000 -0400" stop="20181108053500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108053500 -0400" stop="20181108060000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108070000 -0400" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108070000 -0400" stop="20181108073000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108073000 -0400" stop="20181108080000 -0400" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108080000 -0400" stop="20181108083000 -0400" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108083000 -0400" stop="20181108085000 -0400" channel="Band HD">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108085000 -0400" stop="20181108095000 -0400" channel="Band HD">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108095000 -0400" stop="20181108110000 -0400" channel="Band HD">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108110000 -0400" stop="20181108123000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108123000 -0400" stop="20181108130000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108130000 -0400" stop="20181108131000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108131000 -0400" stop="20181108132000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108132000 -0400" stop="20181108135000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108135000 -0400" stop="20181108142000 -0400" channel="Band HD">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108142000 -0400" stop="20181108151500 -0400" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108151500 -0400" stop="20181108161500 -0400" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108161500 -0400" stop="20181108185000 -0400" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108185000 -0400" stop="20181108192000 -0400" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108192000 -0400" stop="20181108203000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108203000 -0400" stop="20181108204000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108204000 -0400" stop="20181108205000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108205000 -0400" stop="20181108213500 -0400" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108213500 -0400" stop="20181108222700 -0400" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108222700 -0400" stop="20181108223500 -0400" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108223500 -0400" stop="20181108224500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108224500 -0400" stop="20181109002000 -0400" channel="Band HD">
+    <title lang="pt">Senhor dos Céus</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109002000 -0400" stop="20181109011000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109011000 -0400" stop="20181109011500 -0400" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109011500 -0400" stop="20181109021000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109021000 -0400" stop="20181109030000 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109030000 -0400" stop="20181109043000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109043000 -0400" stop="20181109052000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109052000 -0400" stop="20181109053500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109053500 -0400" stop="20181109060000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109060000 -0400" stop="20181109070000 -0400" channel="Band HD">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109070000 -0400" stop="20181109073000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109073000 -0400" stop="20181109080000 -0400" channel="Band HD">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109080000 -0400" stop="20181109083000 -0400" channel="Band HD">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109083000 -0400" stop="20181109085000 -0400" channel="Band HD">
+    <title lang="pt">Sempre Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109085000 -0400" stop="20181109095000 -0400" channel="Band HD">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109095000 -0400" stop="20181109110000 -0400" channel="Band HD">
+    <title lang="pt">Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109110000 -0400" stop="20181109123000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109123000 -0400" stop="20181109130000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109130000 -0400" stop="20181109131000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109131000 -0400" stop="20181109132000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109132000 -0400" stop="20181109135000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109135000 -0400" stop="20181109142000 -0400" channel="Band HD">
+    <title lang="pt">Fala Baixada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109142000 -0400" stop="20181109151500 -0400" channel="Band HD">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109151500 -0400" stop="20181109161500 -0400" channel="Band HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109161500 -0400" stop="20181109185000 -0400" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109185000 -0400" stop="20181109192000 -0400" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109192000 -0400" stop="20181109203000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109203000 -0400" stop="20181109204000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109204000 -0400" stop="20181109205000 -0400" channel="Band HD">
+    <title lang="pt">Programação BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109205000 -0400" stop="20181109213500 -0400" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109213500 -0400" stop="20181109222700 -0400" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109222700 -0400" stop="20181109223500 -0400" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109223500 -0400" stop="20181109224500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109224500 -0400" stop="20181110004000 -0400" channel="Band HD">
+    <title lang="pt">Música Na Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110004000 -0400" stop="20181110013000 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110013000 -0400" stop="20181110013500 -0400" channel="Band HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110013500 -0400" stop="20181110021500 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110021500 -0400" stop="20181110030000 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110030000 -0400" stop="20181110043000 -0400" channel="Band HD">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110043000 -0400" stop="20181110052000 -0400" channel="Band HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110052000 -0400" stop="20181110053500 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110053500 -0400" stop="20181110060000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110060000 -0400" stop="20181110063000 -0400" channel="Band HD">
+    <title lang="pt">Reencontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110063000 -0400" stop="20181110070000 -0400" channel="Band HD">
+    <title lang="pt">Terraviva Sustentável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110070000 -0400" stop="20181110072200 -0400" channel="Band HD">
+    <title lang="pt">Mundo Real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110072200 -0400" stop="20181110073000 -0400" channel="Band HD">
+    <title lang="pt">Quadrangular</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110073000 -0400" stop="20181110080000 -0400" channel="Band HD">
+    <title lang="pt">Tempo de Atitude</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110080000 -0400" stop="20181110083000 -0400" channel="Band HD">
+    <title lang="pt">Exerça a Sua Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110083000 -0400" stop="20181110090000 -0400" channel="Band HD">
+    <title lang="pt">Louvor e Mensagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110090000 -0400" stop="20181110093000 -0400" channel="Band HD">
+    <title lang="pt">Resenha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110093000 -0400" stop="20181110100000 -0400" channel="Band HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110100000 -0400" stop="20181110110000 -0400" channel="Band HD">
+    <title lang="pt">Projeto Vida Nova na TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110110000 -0400" stop="20181110113000 -0400" channel="Band HD">
+    <title lang="pt">Rompendo em Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110113000 -0400" stop="20181110120000 -0400" channel="Band HD">
+    <title lang="pt">Fique Bem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110120000 -0400" stop="20181110123000 -0400" channel="Band HD">
+    <title lang="pt">Vitória em Cristo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110123000 -0400" stop="20181110124500 -0400" channel="Band HD">
+    <title lang="pt">Efeito Carbonaro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110124500 -0400" stop="20181110133000 -0400" channel="Band HD">
+    <title lang="pt">O Sócio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110133000 -0400" stop="20181110160000 -0400" channel="Band HD">
+    <title lang="pt">NBB Caixa: Bauru x Franca</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110160000 -0400" stop="20181110185000 -0400" channel="Band HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110185000 -0400" stop="20181110192000 -0400" channel="Band HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110192000 -0400" stop="20181110202500 -0400" channel="Band HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110202500 -0400" stop="20181110211000 -0400" channel="Band HD">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110211000 -0400" stop="20181110220000 -0400" channel="Band HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110220000 -0400" stop="20181110220500 -0400" channel="Band HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110220500 -0400" stop="20181110223000 -0400" channel="Band HD">
+    <title lang="pt">Vídeonews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110223000 -0400" stop="20181110232000 -0400" channel="Band HD">
+    <title lang="pt">Justiça Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110232000 -0400" stop="20181111010000 -0400" channel="Band HD">
+    <title lang="pt">Amaury Jr</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111010000 -0400" stop="20181111030000 -0400" channel="Band HD">
+    <title lang="pt">SFT</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111030000 -0400" stop="20181111044500 -0400" channel="Band HD">
+    <title lang="pt">Cinema Na Madrugada: Um Drink No Inferno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111044500 -0400" stop="20181111053000 -0400" channel="Band HD">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111053000 -0400" stop="20181111060000 -0400" channel="Band HD">
+    <title lang="pt">30 Minutos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111060000 -0400" stop="20181111063000 -0400" channel="Band HD">
+    <title lang="pt">Cozinha do Bork</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111063000 -0400" stop="20181111070000 -0400" channel="Band HD">
+    <title lang="pt">Terraviva Sustentável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111070000 -0400" stop="20181111073000 -0400" channel="Band HD">
+    <title lang="pt">AgroBand</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111073000 -0400" stop="20181111080000 -0400" channel="Band HD">
+    <title lang="pt">Milagre Inesperado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111080000 -0400" stop="20181111090000 -0400" channel="Band HD">
+    <title lang="pt">Tempo de Atitude</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111090000 -0400" stop="20181111093000 -0400" channel="Band HD">
+    <title lang="pt">Se Liga Na Gente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111093000 -0400" stop="20181111100000 -0400" channel="Band HD">
+    <title lang="pt">Federação Israelita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111100000 -0400" stop="20181111103000 -0400" channel="Band HD">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111103000 -0400" stop="20181111110000 -0400" channel="Band HD">
+    <title lang="pt">Pé na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111110000 -0400" stop="20181111120000 -0400" channel="Band HD">
+    <title lang="pt">Santa Missa da Catedral da Sé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111120000 -0400" stop="20181111123000 -0400" channel="Band HD">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111123000 -0400" stop="20181111130000 -0400" channel="Band HD">
+    <title lang="pt">Show do Mei</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111130000 -0400" stop="20181111140000 -0400" channel="Band HD">
+    <title lang="pt">Band Esporte Clube</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111140000 -0400" stop="20181111150000 -0400" channel="Band HD">
+    <title lang="pt">Só Risos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111150000 -0400" stop="20181111170000 -0400" channel="Band HD">
+    <title lang="pt">Agora É Domingo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111170000 -0400" stop="20181111220000 -0400" channel="Band HD">
+    <title lang="pt">Band Eleições</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111220000 -0400" stop="20181112000000 -0400" channel="Band HD">
+    <title lang="pt">Canal Livre Apuração Das Eleições 2018</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106000000 -0400" stop="20181106020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106020000 -0400" stop="20181106040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106040000 -0400" stop="20181106060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106060000 -0400" stop="20181106080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106080000 -0400" stop="20181106100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106100000 -0400" stop="20181106120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106120000 -0400" stop="20181106140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106140000 -0400" stop="20181106160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106160000 -0400" stop="20181106180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106180000 -0400" stop="20181106200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106200000 -0400" stop="20181106220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181106220000 -0400" stop="20181107000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107000000 -0400" stop="20181107020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107020000 -0400" stop="20181107040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107040000 -0400" stop="20181107060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107060000 -0400" stop="20181107080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107080000 -0400" stop="20181107100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107100000 -0400" stop="20181107120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107120000 -0400" stop="20181107140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107140000 -0400" stop="20181107160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107160000 -0400" stop="20181107180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107180000 -0400" stop="20181107200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107200000 -0400" stop="20181107220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107220000 -0400" stop="20181108000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108000000 -0400" stop="20181108020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108020000 -0400" stop="20181108040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108040000 -0400" stop="20181108060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108080000 -0400" stop="20181108100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108100000 -0400" stop="20181108120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108120000 -0400" stop="20181108140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108160000 -0400" stop="20181108180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180000 -0400" stop="20181108200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108200000 -0400" stop="20181108220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108220000 -0400" stop="20181109000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109000000 -0400" stop="20181109020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109020000 -0400" stop="20181109040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109040000 -0400" stop="20181109060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109060000 -0400" stop="20181109080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109080000 -0400" stop="20181109100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109100000 -0400" stop="20181109120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109120000 -0400" stop="20181109140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109140000 -0400" stop="20181109160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109160000 -0400" stop="20181109180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109180000 -0400" stop="20181109200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109200000 -0400" stop="20181109220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109220000 -0400" stop="20181110000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110000000 -0400" stop="20181110020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110020000 -0400" stop="20181110040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110040000 -0400" stop="20181110060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110060000 -0400" stop="20181110080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110080000 -0400" stop="20181110100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110100000 -0400" stop="20181110120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110120000 -0400" stop="20181110140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110140000 -0400" stop="20181110160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110160000 -0400" stop="20181110180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110180000 -0400" stop="20181110200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110200000 -0400" stop="20181110220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181110220000 -0400" stop="20181111000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111000000 -0400" stop="20181111020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111020000 -0400" stop="20181111040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111040000 -0400" stop="20181111060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111060000 -0400" stop="20181111080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111080000 -0400" stop="20181111100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111100000 -0400" stop="20181111120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111120000 -0400" stop="20181111140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111140000 -0400" stop="20181111160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111160000 -0400" stop="20181111180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111180000 -0400" stop="20181111200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111200000 -0400" stop="20181111220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181111220000 -0400" stop="20181112000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
